@@ -1,0 +1,15 @@
+{
+  "name": "purescript-clipboard",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^2.4.0",
+    "clipboard": "^1.6.0",
+    "purescript-dom": "^3.5.1"
+  }
+}
